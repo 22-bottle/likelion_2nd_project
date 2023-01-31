@@ -1,4 +1,4 @@
-# likelion-10th-2nd_project
+# likelion_10th_2nd_project
 ## :pushpin: [멋쟁이사자처럼 10기] 22년도 가을학기 어디밋 프로젝트
 
 
